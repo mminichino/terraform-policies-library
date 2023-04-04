@@ -2,7 +2,7 @@
 # proposed monthly cost that would be incurred if the current
 # plan were applied
 
-import "tfrun/v2" as tfrun
+import "tfrun"
 import "decimal"
 
 ### limit_proposed_monthly_cost ###

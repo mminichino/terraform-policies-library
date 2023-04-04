@@ -1,6 +1,6 @@
 #
 
-mock "tfrun/v2" {
+mock "tfrun" {
   module {
     source = "../../testdata/mock-tfrun-pass.sentinel"
   }
